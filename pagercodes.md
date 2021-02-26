@@ -17,14 +17,17 @@ Frequency Band:
 * A06 - 900 Mhz 2-way (ReFLEX)
 
 Model:
+* AA - Wordline
 * AU - Digitz
 * AW - Inflo
 * BE - Jazz
+* BJ - Talkabout T-350
 * BP - Bravo Plus
 * CJ - Keynote
 * CM - Advisor Elite
 * DP - OPTRX
 * EJ - Advisor Pro
+* ER - Talkabout LS-750
 * FV - CP1250
 * GV - Bravo Classic
 * HJ - Renegade
